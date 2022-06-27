@@ -1,4 +1,4 @@
-# Pokedéx
+# Livraria
 App de livraria que salva e lista dados do banco
 
 ## Ferramentas usadas na criação
