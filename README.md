@@ -2,7 +2,7 @@
 App de livraria que salva e lista dados do banco
 
 ## Ferramentas usadas na criação
-Foram utilizados ReactJSe MongoDB.
+Foram utilizados ReactJS e MongoDB.
 
 ## Modo de instalação:
 1 - Clonar ou baixar o repositório
