@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.formContainer{
+  width: 500px;
+}
+
+.tableContainer{
+  width: 900px;
+}
+
